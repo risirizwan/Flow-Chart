@@ -1,6 +1,9 @@
+```mermaid
 flowchart TD
-
 A[Project ABC]
+...
+```
+
 
 A --> B[01_Archived]
 A --> C[02_Published]
